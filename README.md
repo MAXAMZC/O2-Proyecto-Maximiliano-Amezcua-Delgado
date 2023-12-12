@@ -2,20 +2,12 @@
 ![](RackMultipart20231212-1-lfup93_html_957da2369959fe46.png)
 
 **FACULTAD**** DE INGENIERIA CIVIL**
-
-**INGENIERO**** TOPOGRAFO ****GEOMATICO**
-
-**"Temperatura Máxima y Mínima Promedio Mensual en Coquimatlán en 1990 - 2017****"**
-
-**Maestro** :Sebastián Gonzales Zepeda
-
-**Autores** :
-
-Maximiliano Amezcua Delgado
-
-**Grado y**** Grupo**: 3ºB
-
-Coquimatlán, Colima a 12/12/202
+<br>**INGENIERO**** TOPOGRAFO ****GEOMATICO**
+<br>**"Temperatura Máxima y Mínima Promedio Mensual en Coquimatlán en 1990 - 2017****"**
+<br>**Autores** : Maximiliano Amezcua Delgado
+<br>**Grado y**** Grupo**: 3ºB
+<br>**Asesor** :Sebastián Gonzales Zepeda
+<br>Coquimatlán, Colima a 12/12/202
 
 **Resumen**
 
